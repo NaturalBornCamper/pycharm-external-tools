@@ -13,7 +13,7 @@
  - PyInstaller External tool setup:
    - Name: PyInstaller
    - Program: Scripts\pyinstaller.exe
-   - Arguments: --onefile $FileName$ -n $ProjectName$
+   - Arguments: --onefile $FileName$ -n "$ProjectName$"
    - Working Directory: $ProjectFileDir$
    
  - QTDesigner External tool setup:
@@ -30,8 +30,7 @@
 ### Usage
 
  - PyInstaller
-   - Right click on main.py -> External tools -> PyInstaller
-   - Or: Tools menu -> External tools -> PyInstaller
+   - Right click on main file python file -> External tools -> PyInstaller
  - QtDesigner
    - Tools menu -> External Tools -> QtDesigner
 
