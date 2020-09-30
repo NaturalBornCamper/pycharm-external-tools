@@ -26,6 +26,7 @@ Tools included to date:
  - QTDesigner External tool setup:
    - Name: QTDesigner
    - Program (from project venv): Lib\site-packages\QtDesigner\designer.exe
+   - Arguments: "$FilePath$"
    - Working Directory: $ProjectFileDir$
 
  - PyUIC External tool setup:
@@ -39,9 +40,10 @@ Tools included to date:
  - PyInstaller
    - Right click on main file python file -> External tools -> PyInstaller
  - QtDesigner
-   - Tools menu -> External Tools -> QtDesigner
+   - Right click on .ui file -> External tools -> QtDesigner
+   - Tools menu -> External Tools -> QtDesigner (Will pop error message because no input file is provided, but still works)
  - PyUIC
-   - Right click on .ui file -> Externatl tools -> PyUIC
+   - Right click on .ui file -> External tools -> PyUIC
 
 ### Useful links
 

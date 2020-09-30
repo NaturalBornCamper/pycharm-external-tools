@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954b7dcf-844f-4180-a1d0-7a948b435096" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyCharm External Tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyCharm External Tools.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,8 @@
       <option name="presentableId" value="Default" />
       <updated>1549435317661</updated>
       <workItem from="1549435352061" duration="4024000" />
-      <workItem from="1601419335859" duration="7518000" />
+      <workItem from="1601419335859" duration="7841000" />
+      <workItem from="1601430781358" duration="386000" />
     </task>
     <task id="LOCAL-00001" summary="=Changes documentation that was incorrect">
       <created>1549439381744</created>
@@ -93,9 +90,9 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="619" y="260" key="FileChooserDialogImpl/1680.0.1680.1010/0.0.1680.1010/-900.0.900.1400@0.0.1680.1010" timestamp="1601426725547" />
-    <state x="610" y="94" key="SettingsEditor" timestamp="1601429283911">
+    <state x="610" y="94" key="SettingsEditor" timestamp="1601431030154">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="610" y="94" key="SettingsEditor/1680.0.1680.1010/0.0.1680.1010/-900.0.900.1400@0.0.1680.1010" timestamp="1601429283911" />
+    <state x="610" y="94" key="SettingsEditor/1680.0.1680.1010/0.0.1680.1010/-900.0.900.1400@0.0.1680.1010" timestamp="1601431030154" />
   </component>
 </project>
