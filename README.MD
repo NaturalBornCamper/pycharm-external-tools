@@ -1,7 +1,14 @@
-# Tools used in other projects
+## Tools project, to be used in other projects
+
+Just a Python project that installs tools which we can then use in other projects without having to install them in each project.
+
+With the use of PyCharm's _external tools_, we can configure those to be accessible in every single project without having to configure anything in those.
+
+Tools included to date:
 
  - PyInstaller (create "exe" file from project)
  - PyQt5 Designer (To design interfaces to use with PyQt5)
+ - PyUIC (To convert .ui files, created in designer, to .py for use in PyQT)
 
 
 ### Configuration in Pycharm
@@ -12,27 +19,29 @@
  
  - PyInstaller External tool setup:
    - Name: PyInstaller
-   - Program: Scripts\pyinstaller.exe
+   - Program (from project venv): Scripts\pyinstaller.exe
    - Arguments: --onefile $FileName$ -n "$ProjectName$"
    - Working Directory: $ProjectFileDir$
    
  - QTDesigner External tool setup:
    - Name: QTDesigner
-   - Program: Lib\site-packages\pyqt5-tools\designer.exe
+   - Program (from project venv): Lib\site-packages\QtDesigner\designer.exe
    - Working Directory: $ProjectFileDir$
 
  - PyUIC External tool setup:
    - Name: PyUIC (Warning, "Arguments" not highlighed in screenshot, easy to miss)
-   - Program: Scripts\pyuic5.exe
-   - Arguments: $FileName$ -o $FileNameWithoutExtension$.py
+   - Program (from project venv): Scripts\pyuic5.exe
+   - Arguments: $FilePath$ -o "$FileDir$\$FileNameWithoutExtension$.py"
    - Working Directory: $ProjectFileDir$
 
-### Usage
+### Usage (In any project after configured here)
 
  - PyInstaller
    - Right click on main file python file -> External tools -> PyInstaller
  - QtDesigner
    - Tools menu -> External Tools -> QtDesigner
+ - PyUIC
+   - Right click on .ui file -> Externatl tools -> PyUIC
 
 ### Useful links
 

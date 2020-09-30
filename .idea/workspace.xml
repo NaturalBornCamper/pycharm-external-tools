@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="954b7dcf-844f-4180-a1d0-7a948b435096" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyCharm External Tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyCharm External Tools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d2235384-eab8-4e2b-9356-f9fea7c718c3" />
+  <component name="ProjectId" id="1iClDK5hGqxU3DbujzElJ5nJ0md" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/pyuic5.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="954b7dcf-844f-4180-a1d0-7a948b435096" name="Default Changelist" comment="" />
+      <created>1549435317661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549435317661</updated>
+      <workItem from="1549435352061" duration="4024000" />
+      <workItem from="1601419335859" duration="7518000" />
+    </task>
+    <task id="LOCAL-00001" summary="=Changes documentation that was incorrect">
+      <created>1549439381744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549439381744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="=Changes documentation that was incorrect" />
+    <option name="LAST_COMMIT_MESSAGE" value="=Changes documentation that was incorrect" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601419389847">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1680.1010/0.0.1680.1010/-900.0.900.1400@0.0.1680.1010" timestamp="1601419389847" />
+    <state x="318" y="252" key="#com.intellij.tools.ToolEditorDialog" timestamp="1601426732955">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="318" y="252" key="#com.intellij.tools.ToolEditorDialog/1680.0.1680.1010/0.0.1680.1010/-900.0.900.1400@0.0.1680.1010" timestamp="1601426732955" />
+    <state x="619" y="260" key="FileChooserDialogImpl" timestamp="1601426725547">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="619" y="260" key="FileChooserDialogImpl/1680.0.1680.1010/0.0.1680.1010/-900.0.900.1400@0.0.1680.1010" timestamp="1601426725547" />
+    <state x="610" y="94" key="SettingsEditor" timestamp="1601429283911">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="610" y="94" key="SettingsEditor/1680.0.1680.1010/0.0.1680.1010/-900.0.900.1400@0.0.1680.1010" timestamp="1601429283911" />
+  </component>
+</project>
